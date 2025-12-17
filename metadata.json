@@ -1,0 +1,5 @@
+{
+  "name": "ThumbGen AI",
+  "description": "Generate viral, high-quality YouTube thumbnails instantly using Gemini 2.5 Flash Image. Features prompt enhancement and custom text overlays.",
+  "requestFramePermissions": []
+}
